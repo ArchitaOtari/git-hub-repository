@@ -1,2 +1,1 @@
-archita
-otari
+Git smashers
