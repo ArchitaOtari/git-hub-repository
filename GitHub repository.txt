@@ -1,5 +1,4 @@
 GitHub repository
 learning github 
-learn
-learnt the versions of github
 making changes in code branch
+Done collaboration
